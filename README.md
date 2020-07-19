@@ -10,19 +10,14 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Dane's Cloud Journey ☁
 
-[✍️ Introduce yourself]
 Hello I'm Dane! By day I am a frontend developer but I've always had an interest in devops so now in my downtime I am learning everything I can about it!
 
-[✍️ Tell us why you started this challenge]
+[✍️ Tell us why you started this challenge]  
 Geninuely interested in devops and eventually want to make the switch to the cloud as a full time job.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[✍️ Tell us where you want to be at the end of the challenge]  
 At least one AWS cert.
 
 - [My twitter](https://twitter.com/hybridearth)
