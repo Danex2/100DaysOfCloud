@@ -14,20 +14,23 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Dane's Cloud Journey ☁
 
 [✍️ Introduce yourself]
+Hello I'm Dane! By day I am a frontend developer but I've always had an interest in devops so now in my downtime I am learning everything I can about it!
 
 [✍️ Tell us why you started this challenge]
+Geninuely interested in devops and eventually want to make the switch to the cloud as a full time job.
 
 [✍️ Tell us where you want to be at the end of the challenge]
+At least one AWS cert.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [My twitter](https://twitter.com/hybridearth)
+- [LinkedIn](https://www.linkedin.com/in/dmiller94)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
+- [✔] ☁️ 1 > [My First Day](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [](Journey/002/Readme.md)
 - [ ] ☁️ 3 > [](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
