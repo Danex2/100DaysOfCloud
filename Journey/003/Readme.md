@@ -1,9 +1,8 @@
 
 
-**Add a cover photo like:**
 ![placeholder image](https://images.unsplash.com/photo-1477346611705-65d1883cee1e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
-# New post title here
+# AWS IAM (Identity and Access Management)
 
 ## Introduction
 
